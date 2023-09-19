@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @praneethmodulla
+
 Praneeth, a graduate student at Carnegie Mellon University, enjoys his free time by engaging in puzzle-solving games and pursuing coding projects.
 He is passionate about tackling challenges such as Rubik's cube and Sudoku, and he also enjoys playing mobile puzzle games like Rop and Hocus.
 
