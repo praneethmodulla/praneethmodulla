@@ -4,7 +4,7 @@ Praneeth, a graduate student at Carnegie Mellon University, enjoys his free time
 He is passionate about tackling challenges such as Rubik's cube and Sudoku, and he also enjoys playing mobile puzzle games like Rop and Hocus.
 
 During the past sizzling summer, he interned at Honeywell, where he wielded his coding wizardry to conjure up software that gives firefighters the 
-ultimate cheat code for making lightning-fast decisions in emergencies. Picture this: Praneeth, the coding hero, saves the day and lives – all with 
+ultimate cheat code for making lightning-fast decisions in emergencies. Picture this: Praneeth, saves the day and lives – all with 
 the power of his keyboard and a dash of geeky magic! 🔥💻🚒
 
 Before that, he held a position at Intel as a Software Engineer, where his role involved crafting automation software tailored for Intel's manufacturing facilities. 
